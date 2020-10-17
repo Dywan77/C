@@ -1,4 +1,11 @@
 /*
+            démarrer : 
+            
+            1- Ouvrire le cmd
+            2- cd C:\Users\dywan\Desktop\CODES\Dywan-C\HelloWorld
+            3- gcc age.c -o age    ///    gcc HelloWorld.c -o hello
+            
+            
             %d : nombre entier (int)
             %f : nombre flottant (float)
             %c : caractere (char)
@@ -8,6 +15,8 @@
 printf ("Wesh Wesh canne a peche :)"); (normal)
 printf ("\nWesh Wesh canne a peche :)\n"); (sauter des lignes)
 printf("%d\n", bonjour); affichier le nombre entier qui est dans la variable bonjour.
+scanf("%d", &NOMDEVARIABLE) le & fait comprendre que c'est le chemin ou stocké ce qui va être saisie grace a scanf.
+
 
 
 |unsigned char|1 octet|0 à 255|
